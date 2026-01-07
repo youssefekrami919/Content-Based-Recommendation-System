@@ -1,9 +1,21 @@
-# Content-Based-Recommendation-System
+# Recommender System App
 
-# Financial Literacy Content-Based Recommendation System
+## Financial Literacy Content-Based Recommendation System
 
 ##  Overview
 A sophisticated content-based recommendation system for financial literacy content that combines text analysis (TF-IDF) with categorical feature encoding to deliver personalized educational recommendations. The system handles both existing users and cold-start scenarios with an intuitive Streamlit web interface.
+
+
+
+## 🚀 Getting Started
+
+### Quick Start (For Users)
+**You can run the main application immediately without running any other files:**
+
+```bash
+streamlit run code/main.py
+```
+
 
 ##  Key Features
 
